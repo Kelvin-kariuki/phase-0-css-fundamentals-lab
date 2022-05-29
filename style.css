@@ -3,3 +3,45 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+img{
+ margin:auto;
+ padding: auto;
+}
+nav a{
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: grey;
+
+}
+
+#details{
+  background: red;
+  display: flex;
+  text-align: center;
+  justify-content: space-around; 
+  width:25%;
+}
+figcaption{
+  padding-left: 190px;
+}
+
+
+#featured-property{
+  padding-left: 450px;
+  
+}
+#featured-property p{
+  width: 920px;
+  padding-left: 40px;
+  text-align: center;
+}
+
+a:visited{
+  color: pink;
+}
+a:link{
+  color: blue;
+}
