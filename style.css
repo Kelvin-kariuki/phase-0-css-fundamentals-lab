@@ -23,6 +23,7 @@ nav a{
   text-align: center;
   justify-content: space-around; 
   width:25%;
+  float: left;
 }
 figcaption{
   padding-left: 190px;
